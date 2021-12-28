@@ -27,7 +27,7 @@
 ###  👉 Sobre mi:
 - 🎓 Finalicé mis estudios del Ciclo Superior de Desarrollo Web el pasado junio (2021) [enlace al proyecto final](https://github.com/LorenaDeveloper/nice-tidy-project)
 - 🎓 He participado en el III CURSO DE EXTENSIÓN UNIVERSITARIA SAMSUNG INNOVATION CAMPUS EN INTELIGENCIA ARTIFICIAL (2021-22) [enlace al proyecto](https://github.com/LorenaDeveloper/Iris-Eye)
-- 🏦 Actualmente trabajo para Vantea Smart desarrollando un market place personalizado 
+- 🏦 Actualmente trabajo para [Vantea Smart](https://www.linkedin.com/company/vanteasmart) desarrollando un market place personalizado
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 Utilizo a diario Spring Boot, MongoDb, RabbitMQ, JUnit y Postman.
 - 👯 Trabajo muy bien en equipo. Soy constante, organizada y resolutiva.
@@ -69,7 +69,7 @@
 ###  👉 About me:
 - 🎓 I finished my studies 'Technician Degree in Web Applications Development' last June. (2021) [link to final project](https://github.com/LorenaDeveloper/nice-tidy-project)
 - 🎓 I have participated in III SAMSUNG INNOVATION CAMPUS UNIVERSITY EXTENSION COURSE IN ARTIFICIAL INTELLIGENCE (2021-22) [link to project](https://github.com/LorenaDeveloper/Iris-Eye)
-- 🏦 I am currently working for Vantea Smart developing a customized market place. 
+- 🏦 I am currently working for [Vantea Smart](https://www.linkedin.com/company/vanteasmart) developing a customized market place. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I work with Spring Boot, MongoDb, RabbitMQ, JUnit and Postman on a daily basis.
 - 👯 I work very well in a team. I am constant, organized and decisive.
