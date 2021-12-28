@@ -6,21 +6,21 @@
 
 <p>
 <div align="center">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/html.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/css.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/github.svg">
-  <img height = '40px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/heroku.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/java.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/postman.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/trello.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/html.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/css.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
+  <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/java.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/postman.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/trello.svg">
     <br><br>
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/python.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/colab.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/tensorflow.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/python.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/colab.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/tensorflow.svg">
     <br><br>
-  <img width = '140px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/jupyter.svg">
-  <img width = '140px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/pandas.png">
-  <img width = '140px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/scikitlearn.png">
+  <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/jupyter.svg">
+  <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/pandas.png">
+  <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/scikitlearn.png">
 </div>
 </p>
 
@@ -47,22 +47,22 @@
 
 <p>
 <div align="center">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/html.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/css.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/javascript.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/github.svg">
-  <img height = '40px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/heroku.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/java.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/postman.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/trello.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/html.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/css.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/javascript.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
+  <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/java.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/postman.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/trello.svg">
     <br><br>
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/python.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/colab.svg">
-  <img src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/tensorflow.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/python.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/colab.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/tensorflow.svg">
     <br><br>
-  <img width = '140px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/jupyter.svg">
-  <img width = '140px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/pandas.png">
-  <img width = '140px' src="https://github.com/LorenaDeveloper/About_me/blob/main/budgets/scikitlearn.png">
+  <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/jupyter.svg">
+  <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/pandas.png">
+  <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/scikitlearn.png">
 </div>
 </p>
 
