@@ -25,17 +25,21 @@
 </p>
 
 ###  👉 Sobre mi:
-- 🎓 Finalicé mis estudios del Ciclo Superior de Desarrollo Web el pasado junio (2021) [enlace al proyecto final](https://github.com/LorenaDeveloper/nice-tidy-project)
+- 🎓 Finalicé mis estudios del Ciclo Superior de Desarrollo Web en junio de 2021 [enlace al proyecto final](https://github.com/LorenaDeveloper/nice-tidy-project)
 - 🎓 He participado en el III CURSO DE EXTENSIÓN UNIVERSITARIA SAMSUNG INNOVATION CAMPUS EN INTELIGENCIA ARTIFICIAL (2021-22) [enlace al proyecto](https://github.com/LorenaDeveloper/Iris-Eye)
-- 🏦 Actualmente trabajo para [Vantea Smart](https://www.linkedin.com/company/vanteasmart) desarrollando un market place personalizado
+- 🏦 Tras finalizar el ciclo comencé a trabajar para [Vantea Smart](https://www.linkedin.com/company/vanteasmart) desarrollando un market place personalizado
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 Utilizo a diario Spring Boot, MongoDb, RabbitMQ, JUnit y Postman.
+
+  🤔 Utilizaba a diario Spring Boot, MongoDb, RabbitMQ, JUnit y Postman.
+- 🏦 En Febrero de 2022 me cambié de compañía y en la actualidad trabajo para [Indra / Minsait](https://www.indracompany.com/) en un proyecto para [Telefónica](https://www.telefonica.es/es/)
+
+  🤔 En este proyecto utilizamos Java 17, angularJS, OSBs, SOAs (bpms) y realizamos pruebas tanto con JUnit como con Karma (dependiendo del servicio)
 - 👯 Trabajo muy bien en equipo. Soy constante, organizada y resolutiva.
 
 <br>
 
 ###  👉 Contáctame:
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="LinkedIn" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
 <br><br>
 
@@ -67,16 +71,20 @@
 </p>
 
 ###  👉 About me:
-- 🎓 I finished my studies 'Technician Degree in Web Applications Development' last June. (2021) [link to final project](https://github.com/LorenaDeveloper/nice-tidy-project)
+- 🎓 I finished my studies 'Technician Degree in Web Applications Development' in June 2021 [link to final project](https://github.com/LorenaDeveloper/nice-tidy-project)
 - 🎓 I have participated in III SAMSUNG INNOVATION CAMPUS UNIVERSITY EXTENSION COURSE IN ARTIFICIAL INTELLIGENCE (2021-22) [link to project](https://github.com/LorenaDeveloper/Iris-Eye)
-- 🏦 I am currently working for [Vantea Smart](https://www.linkedin.com/company/vanteasmart) developing a customized market place. 
+- 🏦 After completing my training, I started working for [Vantea Smart](https://www.linkedin.com/company/vanteasmart) developing a customized market place. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I work with Spring Boot, MongoDb, RabbitMQ, JUnit and Postman on a daily basis.
+
+  🤔 I worked with Spring Boot, MongoDb, RabbitMQ, JUnit and Postman on a daily basis.
+- 🏦 In February 2022 I changed companies and I am currently working for [Indra / Minsait](https://www.indracompany.com/) on a project for [Telefónica](https://www.telefonica.es/es/).
+
+  🤔 In this project we use Java 17, angularJS, OSBs, SOAs (bpms) and we test with both JUnit and Karma (depending on the service).
 - 👯 I work very well in a team. I am constant, organized and decisive.
 
 <br>
 
 ###  👉 Contact me:
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="LinkedIn" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
 
