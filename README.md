@@ -39,7 +39,7 @@
 <br>
 
 ###  👉 Contáctame:
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="LinkedIn" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/linkedIn.png" alt="LinkedIn" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
 <br><br>
 
@@ -85,6 +85,6 @@
 <br>
 
 ###  👉 Contact me:
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="LinkedIn" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lorena-jiménez-tejada-966611176" target="blank"><img align="center" src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/linkedIn.png" alt="LinkedIn" height="30" width="40" /></a> <span>&nbsp;&nbsp;&nbsp;</span> <a href = "mailto: developerlorena@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
 
