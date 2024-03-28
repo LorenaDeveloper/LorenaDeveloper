@@ -33,7 +33,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   🤔 Utilizaba a diario Spring Boot, MongoDb, RabbitMQ, JUnit y Postman.
-- 🏦 En Febrero de 2022 me cambié de compañía y en la actualidad trabajo para [Indra / Minsait](https://www.indracompany.com/) en un proyecto para [Telefónica](https://www.telefonica.es/es/)
+- 🏦 En Febrero de 2022 me cambié de compañía y en la actualidad trabajo para [Indra / Minsait](https://www.indracompany.com/) en un proyecto TELCO para [Telefónica](https://www.telefonica.es/es/)
 
   🤔 En este proyecto utilizamos Java 17, angularJS, SOAs (bpms) y realizamos pruebas tanto con JUnit como con Karma (dependiendo del servicio)
 - 👯 Trabajo muy bien en equipo. Soy constante, organizada y resolutiva.
@@ -80,7 +80,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   🤔 I worked with Spring Boot, MongoDb, RabbitMQ, JUnit and Postman on a daily basis.
-- 🏦 In February 2022 I changed companies and I am currently working for [Indra / Minsait](https://www.indracompany.com/) on a project for [Telefónica](https://www.telefonica.es/es/).
+- 🏦 In February 2022 I changed companies and I am currently working for [Indra / Minsait](https://www.indracompany.com/) on a TELCO project for [Telefónica](https://www.telefonica.es/es/).
 
   🤔 In this project we use Java 17, angularJS, SOAs (bpms) and we test with both JUnit and Karma (depending on the service).
 - 👯 I work very well in a team. I am constant, organized and decisive.
