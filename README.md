@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/html.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/css.svg">
+  <img width = '120px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/angular-seeklogo.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
   <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/java.svg">
@@ -21,6 +22,7 @@
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/jupyter.svg">
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/pandas.png">
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/scikitlearn.png">
+  
 </div>
 </p>
 
@@ -33,7 +35,7 @@
   🤔 Utilizaba a diario Spring Boot, MongoDb, RabbitMQ, JUnit y Postman.
 - 🏦 En Febrero de 2022 me cambié de compañía y en la actualidad trabajo para [Indra / Minsait](https://www.indracompany.com/) en un proyecto para [Telefónica](https://www.telefonica.es/es/)
 
-  🤔 En este proyecto utilizamos Java 17, angularJS, OSBs, SOAs (bpms) y realizamos pruebas tanto con JUnit como con Karma (dependiendo del servicio)
+  🤔 En este proyecto utilizamos Java 17, angularJS, SOAs (bpms) y realizamos pruebas tanto con JUnit como con Karma (dependiendo del servicio)
 - 👯 Trabajo muy bien en equipo. Soy constante, organizada y resolutiva.
 
 <br>
@@ -53,6 +55,7 @@
 <div align="center">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/html.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/css.svg">
+  <img width = '120px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/angular-seeklogo.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/javascript.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
   <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
@@ -79,7 +82,7 @@
   🤔 I worked with Spring Boot, MongoDb, RabbitMQ, JUnit and Postman on a daily basis.
 - 🏦 In February 2022 I changed companies and I am currently working for [Indra / Minsait](https://www.indracompany.com/) on a project for [Telefónica](https://www.telefonica.es/es/).
 
-  🤔 In this project we use Java 17, angularJS, OSBs, SOAs (bpms) and we test with both JUnit and Karma (depending on the service).
+  🤔 In this project we use Java 17, angularJS, SOAs (bpms) and we test with both JUnit and Karma (depending on the service).
 - 👯 I work very well in a team. I am constant, organized and decisive.
 
 <br>
