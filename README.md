@@ -9,11 +9,11 @@
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/html.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/css.svg">
   <img width = '120px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/angular-seeklogo.svg">
-  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
-  <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/java.svg">
-  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/postman.svg">
-  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/trello.svg">
+    <br><br>
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github-copilot-seeklogo.svg">
+  <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
     <br><br>
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/python.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/colab.svg">
@@ -22,6 +22,9 @@
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/jupyter.svg">
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/pandas.png">
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/scikitlearn.png">
+    <br><br>
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/postman.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/trello.svg">
   
 </div>
 </p>
@@ -56,12 +59,11 @@
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/html.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/css.svg">
   <img width = '120px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/angular-seeklogo.svg">
-  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/javascript.svg">
-  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
-  <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/java.svg">
-  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/postman.svg">
-  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/trello.svg">
+    <br><br>
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/github-copilot-seeklogo.svg">
+  <img height = '40px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/heroku.svg">
     <br><br>
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/python.svg">
   <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/colab.svg">
@@ -70,6 +72,10 @@
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/jupyter.svg">
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/pandas.png">
   <img width = '140px' src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/scikitlearn.png">
+    <br><br>
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/postman.svg">
+  <img src="https://github.com/LorenaDeveloper/LorenaDeveloper/blob/main/budgets/trello.svg">
+  
 </div>
 </p>
 
@@ -83,7 +89,7 @@
 - 🏦 In February 2022 I changed companies and I am currently working for [Indra / Minsait](https://www.indracompany.com/) on a TELCO project for [Telefónica](https://www.telefonica.es/es/).
 
   🤔 In this project we use Java 17, angularJS, SOAs (bpms) and we test with both JUnit and Karma (depending on the service).
-- 👯 I work very well in a team. I am constant, organized and decisive.
+- 👯 I work really well in a team. I'm constant, organized and decisive.
 
 <br>
 
